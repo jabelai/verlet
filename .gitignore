@@ -33,3 +33,7 @@ proguard/
 proguard_logs/
 proguard-project.txt
 ant.properties
+/build
+/demo/build
+/lib/build
+.gradle
